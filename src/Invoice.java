@@ -17,7 +17,7 @@ public class Invoice {
 
     public String getLocalDatetime() {
 
-        return "";
+        return date.toString();
     }
 
     public void addProduct (Product product) {
