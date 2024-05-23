@@ -1,7 +1,6 @@
 import java.util.ArrayList ;
 class Inventory implements Iterable {
 
-
     ArrayList <StockableProduct> items = new ArrayList <> ();
 
     public Inventory() {
